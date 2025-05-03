@@ -1,0 +1,6 @@
+trimesh
+rembg
+Pillow
+pyrender
+numpy
+open3d
