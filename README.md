@@ -19,19 +19,19 @@ Code Structure:
 
 3DModelGenerator/
 
-├── app.py                  # Main execution file
+├── app.py                       # Main execution file
 
 ├── utils/
 
-│   ├── image_to_3d.py      # Converts image to 3D model
+│   ├── image_to_3d.py           # Converts image to 3D model
 
-│   ├── text_to_3d.py       # Converts text to 3D model
+│   ├── text_to_3d.py            # Converts text to 3D model
 
-│   └── visualize.py        # Shows 3D viewer
+│   └── visualize.py             # Shows 3D viewer
 
-├── output/                 # Stores generated 3D files
+├── output/                      # Stores generated 3D files
 
-├── requirements.txt        # Python dependencies
+├── requirements.txt             # Python dependencies
 
 └── README.md
 
