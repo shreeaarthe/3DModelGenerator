@@ -15,6 +15,18 @@ pyrender: Allows me to display the 3D models interactively in a viewer.
 imageio: For loading and working with image files.
 argparse: Makes it easy to handle command-line inputs.
 
+Code Structure:
+
+3DModelGenerator/
+├── app.py                  # Main execution file
+├── utils/
+│   ├── image_to_3d.py      # Converts image to 3D model
+│   ├── text_to_3d.py       # Converts text to 3D model
+│   └── visualize.py        # Shows 3D viewer
+├── output/                 # Stores generated 3D files
+├── requirements.txt        # Python dependencies
+└── README.md
+
 Thought Process:
 
 The goal was to build a simple tool that can turn either a picture or a text description into a 3D model. For the images, I used AI to remove the background and focus only on the object. 
