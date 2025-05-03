@@ -21,3 +21,5 @@ The goal was to build a simple tool that can turn either a picture or a text des
 For text, I just used a basic placeholder model (a cube) for now. I used trimesh to create the 3D objects and pyrender to display them. The code is clean and modular, so I can easily replace 
 the placeholders with more realistic AI-generated models later on.
 
+Video demo - https://drive.google.com/file/d/1bDcySS-pjhIBMc1tisMXyMJbFgZRTXNA/view?usp=sharing
+
