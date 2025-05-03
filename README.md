@@ -23,3 +23,5 @@ the placeholders with more realistic AI-generated models later on.
 
 Video demo - https://drive.google.com/file/d/1bDcySS-pjhIBMc1tisMXyMJbFgZRTXNA/view?usp=sharing
 
+Thank you!
+
